@@ -1,35 +1,120 @@
-## Oii, eu sou o Euler Momberger!!!
+# Oii, eu sou o Euler Momberger!!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<div>
-  <a href="https://github.com/eulermomberger">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=eulermomberger&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulermomberger&layout=compact&langs_count=7&theme=gotham"/>
+<p align="center">
+  <img
+    align="center"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=eulermomberger&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+  />
+  <img
+    align="center"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulermomberger&layout=compact&langs_count=7&theme=gotham"
+  />
+</p>
+
+<br>
+<br>
+
+## Minhas skills 👨‍💻
+<div align="center">
+  <img
+    align="center"
+    alt="JavaScript logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="TypeScript logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="AngularJS logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="React logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="HTML logo"
+    height="30"
+    width="40"
+    src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="CSS logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="Ruby logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="RubyOnRails logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="MySQL logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+  >
 </div>
 
 <br>
+<br>
+<br>
 
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="RubyOnRails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-##
-
-<div>
+## Entre em contato comigo 📱
+<div align="center">
   <a href="https://www.instagram.com/euler_momberger">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img
+      alt="Instagram logo"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    >
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/euler-momberger/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img
+      alt="Linkedin logo"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    >
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mombergereuler@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img
+      alt="Gmail logo"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    >
   </a>
 </div>
