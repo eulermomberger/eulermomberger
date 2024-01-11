@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/eulermomberger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulermomberger&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulermomberger&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=eulermomberger&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulermomberger&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <br>
@@ -33,5 +33,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-![Snake animation](https://github.com/eulermomberger/eulermomberger/blob/output/github-contribution-grid-snake.svg)
