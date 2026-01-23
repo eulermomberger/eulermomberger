@@ -1,4 +1,4 @@
-# Oii, eu sou o Euler Momberger!!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hii, I'm Euler Momberger!!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
   <img
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## Minhas skills 👨‍💻
+## My skills 👨‍💻
 <div align="center">
   <img
     align="center"
@@ -48,6 +48,14 @@
     height="30"
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    align="center"
+    alt="Nextjs logo"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
   >
   &nbsp;&nbsp;&nbsp;
   <img
@@ -95,7 +103,7 @@
 <br>
 <br>
 
-## Entre em contato comigo 📱
+## Get in touch with me 📱
 <div align="center">
   <a href="https://www.instagram.com/euler_momberger">
     <img
