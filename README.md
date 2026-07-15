@@ -4,12 +4,12 @@
   <img
     align="center"
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=eulermomberger&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=eulermomberger&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
   />
   <img
     align="center"
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulermomberger&layout=compact&langs_count=7&theme=gotham"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=eulermomberger&layout=compact&langs_count=7&theme=gotham"
   />
 </p>
 
